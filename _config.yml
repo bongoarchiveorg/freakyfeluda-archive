@@ -1,0 +1,19 @@
+baseurl: ''
+description: |
+  low quality bangla memes to stay relevant in this post modern capitalistic bangla society
+footer_website: bongoarchive.org
+header_img: media/freakyfeluda._.jpg
+ig_category: null
+ig_userid: '67943894761'
+ig_username: freakyfeluda._
+ig_website: null
+include:
+- media
+name: null
+plugins:
+- jekyll-remote-theme
+remote_theme: diptanilsaha/jekyll-theme-instagram
+theme_config:
+- archive: true
+title: freakyfeluda._
+url: 'https://freakyfeluda.bongoarchive.org'
