@@ -14,6 +14,6 @@ plugins:
 - jekyll-remote-theme
 remote_theme: diptanilsaha/jekyll-theme-instagram
 theme_config:
-- archive: true
+  archive: true
 title: freakyfeluda._
 url: 'https://freakyfeluda.bongoarchive.org'
