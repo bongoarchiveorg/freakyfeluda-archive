@@ -5,7 +5,7 @@ footer_website: bongoarchive.org
 header_img: media/freakyfeluda._.jpg
 ig_category: null
 ig_userid: '67943894761'
-ig_username: freakyfeluda._
+ig_username: freakyfeluda
 ig_website: null
 include:
 - media
@@ -15,5 +15,5 @@ plugins:
 remote_theme: diptanilsaha/jekyll-theme-instagram
 theme_config:
   archive: true
-title: freakyfeluda._
+title: freakyfeluda
 url: 'https://freakyfeluda.bongoarchive.org'
